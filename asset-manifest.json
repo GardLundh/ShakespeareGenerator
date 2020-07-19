@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ShakespeareGenerator/static/css/main.5a385dbd.chunk.css",
-    "main.js": "/ShakespeareGenerator/static/js/main.c3f889c8.chunk.js",
-    "main.js.map": "/ShakespeareGenerator/static/js/main.c3f889c8.chunk.js.map",
+    "main.js": "/ShakespeareGenerator/static/js/main.0b88e4e3.chunk.js",
+    "main.js.map": "/ShakespeareGenerator/static/js/main.0b88e4e3.chunk.js.map",
     "runtime-main.js": "/ShakespeareGenerator/static/js/runtime-main.aa3417c2.js",
     "runtime-main.js.map": "/ShakespeareGenerator/static/js/runtime-main.aa3417c2.js.map",
     "static/js/2.3149bb4e.chunk.js": "/ShakespeareGenerator/static/js/2.3149bb4e.chunk.js",
     "static/js/2.3149bb4e.chunk.js.map": "/ShakespeareGenerator/static/js/2.3149bb4e.chunk.js.map",
     "index.html": "/ShakespeareGenerator/index.html",
-    "precache-manifest.f2577670374fb3c48222295936447ba8.js": "/ShakespeareGenerator/precache-manifest.f2577670374fb3c48222295936447ba8.js",
+    "precache-manifest.d457831acfb4798de0d59a54eb07b6e5.js": "/ShakespeareGenerator/precache-manifest.d457831acfb4798de0d59a54eb07b6e5.js",
     "service-worker.js": "/ShakespeareGenerator/service-worker.js",
     "static/css/main.5a385dbd.chunk.css.map": "/ShakespeareGenerator/static/css/main.5a385dbd.chunk.css.map",
     "static/js/2.3149bb4e.chunk.js.LICENSE.txt": "/ShakespeareGenerator/static/js/2.3149bb4e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.aa3417c2.js",
     "static/js/2.3149bb4e.chunk.js",
     "static/css/main.5a385dbd.chunk.css",
-    "static/js/main.c3f889c8.chunk.js"
+    "static/js/main.0b88e4e3.chunk.js"
   ]
 }
