@@ -1,0 +1,60 @@
+@import "../../assets/config.scss";
+
+.header {
+  padding: 20px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  text-align: center;
+  background: white;
+  color: black;
+  font-size: 30px;
+
+  nav,
+  nav ul,
+  nav ul li {
+    margin: 0;
+    padding: 0;
+  }
+
+  nav {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    @include translateY(-50%);
+
+    ul li {
+      list-style-type: none;
+      display: inline-block;
+      margin-right: 20px;
+
+      &.last {
+        margin: 0;
+      }
+
+      a {
+        font-family: "Merriweather", serif;
+        font-size: 20px;
+        line-height: normal;
+        color: black;
+      }
+    }
+  }
+}
+
+.title {
+  font-family: "Grenze Gotisch", cursive;
+}
+
+@media screen and (min-width: 375px) and (max-width: 670px) {
+  .header {
+    padding: 40px;
+
+    nav,
+    nav ul,
+    nav ul li,
+    nav ul li a {
+      padding-top: 35px;
+    }
+  }
+}

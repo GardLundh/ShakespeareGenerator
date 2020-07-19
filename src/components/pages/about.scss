@@ -1,0 +1,46 @@
+.imageContainer {
+  display: block;
+  max-width: 300px;
+  padding: 20px;
+  transform: rotateY(180deg);
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.aboutText {
+  padding-top: 120px;
+  padding-left: 140px;
+  padding-right: 140px;
+  text-align: center;
+  line-height: 2;
+  font-family: "Merriweather", serif;
+}
+
+.aboutTextTwo {
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-left: 240px;
+  text-align: right;
+  line-height: 2;
+  font-family: "Merriweather", serif;
+}
+
+@media screen and (min-width: 375px) and (max-width: 670px) {
+  .aboutText {
+    padding-top: 140px;
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+}
+
+@media screen and (min-width: 100px) and (max-width: 375px) {
+  .imageContainer {
+    width: 200px;
+  }
+  .aboutText {
+    padding-top: 180px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
