@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ShakespeareGenerator/precache-manifest.d457831acfb4798de0d59a54eb07b6e5.js"
+  "/ShakespeareGenerator/precache-manifest.2f666327070a2c1b4e35e32fd058a636.js"
 );
 
 self.addEventListener('message', (event) => {
