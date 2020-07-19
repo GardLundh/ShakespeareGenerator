@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ShakespeareGenerator/static/css/main.5a385dbd.chunk.css",
+    "main.js": "/ShakespeareGenerator/static/js/main.c3f889c8.chunk.js",
+    "main.js.map": "/ShakespeareGenerator/static/js/main.c3f889c8.chunk.js.map",
+    "runtime-main.js": "/ShakespeareGenerator/static/js/runtime-main.aa3417c2.js",
+    "runtime-main.js.map": "/ShakespeareGenerator/static/js/runtime-main.aa3417c2.js.map",
+    "static/js/2.3149bb4e.chunk.js": "/ShakespeareGenerator/static/js/2.3149bb4e.chunk.js",
+    "static/js/2.3149bb4e.chunk.js.map": "/ShakespeareGenerator/static/js/2.3149bb4e.chunk.js.map",
+    "index.html": "/ShakespeareGenerator/index.html",
+    "precache-manifest.f2577670374fb3c48222295936447ba8.js": "/ShakespeareGenerator/precache-manifest.f2577670374fb3c48222295936447ba8.js",
+    "service-worker.js": "/ShakespeareGenerator/service-worker.js",
+    "static/css/main.5a385dbd.chunk.css.map": "/ShakespeareGenerator/static/css/main.5a385dbd.chunk.css.map",
+    "static/js/2.3149bb4e.chunk.js.LICENSE.txt": "/ShakespeareGenerator/static/js/2.3149bb4e.chunk.js.LICENSE.txt",
+    "static/media/shakespeare.jpg": "/ShakespeareGenerator/static/media/shakespeare.3a7df2f8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa3417c2.js",
+    "static/js/2.3149bb4e.chunk.js",
+    "static/css/main.5a385dbd.chunk.css",
+    "static/js/main.c3f889c8.chunk.js"
+  ]
+}
