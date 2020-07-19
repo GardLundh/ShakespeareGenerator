@@ -9,8 +9,8 @@ function App() {
     <Router>
       <div className="App">
         <Header />
-        <Route exact path="/" component={TextGenerator} />
-        <Route exact path="/about" component={About} />
+        <Route exact path="/ShakespeareGenerator" component={TextGenerator} />
+        <Route exact path="/ShakespeareGenerator/about" component={About} />
       </div>
     </Router>
   );
