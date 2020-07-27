@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0a180095be1d62155fd8cad990fcba8",
+    "revision": "f2e0da68c58de93b31da8efcd5f842ae",
     "url": "/ShakespeareGenerator/index.html"
   },
   {
-    "revision": "4ae2b6a98b0ccf1904e8",
+    "revision": "cae23b7e2d0299b52b41",
     "url": "/ShakespeareGenerator/static/css/main.8853e475.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ShakespeareGenerator/static/js/2.3149bb4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ae2b6a98b0ccf1904e8",
-    "url": "/ShakespeareGenerator/static/js/main.0b88e4e3.chunk.js"
+    "revision": "cae23b7e2d0299b52b41",
+    "url": "/ShakespeareGenerator/static/js/main.ed589489.chunk.js"
   },
   {
     "revision": "093f96925f4f98c9d010",
